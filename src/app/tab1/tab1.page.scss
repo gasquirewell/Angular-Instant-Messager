@@ -1,0 +1,21 @@
+.post{
+    border:1px solid rgb(177, 220, 255);
+    border-radius: 4px;
+    margin: 15px 10px;
+    text-align: center;
+}
+
+.info {
+    margin-top: 5px;
+
+    .message {
+        font-size: 18px;
+        font-weight: bold;
+    }
+
+    .user {
+        text-align: right;
+        color: rgb(14, 54, 167);
+    }
+}
+
